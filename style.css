@@ -7,6 +7,9 @@ h3 {
     color: rgb(71, 39, 4);
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
+    padding: 12px;
+    margin: 12px auto;
+    border: 1px solid rgb(212, 95, 156);
 }
 
 p,
@@ -14,6 +17,7 @@ ol,
 ul {
     color: rgb(71, 39, 4);
     font-family: 'Times New Roman', Times, serif;
+    margin: 10px 10px;
 }
 
 strong {
